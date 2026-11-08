@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: student-tracker2
+server:
+  port: 8080
+languages: Java,Python,C
+countries: Mauritanie,Sénégal,JAPAN,NIHONGO
+systems: Linux,macOS,Microsoft Windows,Android OS,iOS
+
